@@ -11,15 +11,18 @@ https://mlcheatsheet.slack.com
 ### Instructions :
 - maximum size : TODO
 - in English
-- only basic LaTeX package 
+- only basic LaTeX package
 
 ### To contribute :
-- 1. please contact me if you are not in the list bellow to become a contributor
-- 2. clone the repository
+- 1. clone the repository
+- 2. create your branch using the following format : [your github username]-[the task you are doing], for instance : *jeandupont-nearestneighbors*
 - 3. update the Todo list with your task : https://trello.com/b/fWEVqSMA/ml-cheat-sheet
-- 3. copy and paste the cheat sheet template
-- 4. edit and push your work
-- 5. enjoy !
+- 3. copy and paste the cheat sheet template into your branch
+- 4. edit and push your work to your branch
+- 5. Open a pull request
+- 6. Wait for a reviewer to review your pull request
+- 7. If your pull request is accepted, your branch will be merged into the master branch.
+- 8. Enjoy your new fame for contributing :) !
 
 ### Contributors :
 - François Blas
