@@ -1,5 +1,3 @@
-# ml-cheat-sheet
-
 # Machine Learning Cheat Sheet
 
 ### Todo list :
@@ -9,7 +7,7 @@ https://trello.com/b/fWEVqSMA/ml-cheat-sheet
 https://mlcheatsheet.slack.com
 
 ### Instructions :
-- maximum size : TODO
+- maximum size per cheat sheet : **2 pages**
 - in English
 - only basic LaTeX package
 
@@ -17,12 +15,12 @@ https://mlcheatsheet.slack.com
 - 1. clone the repository
 - 2. create your branch using the following format : [your github username]-[the task you are doing], for instance : *jeandupont-nearestneighbors*
 - 3. update the Todo list with your task : https://trello.com/b/fWEVqSMA/ml-cheat-sheet
-- 3. copy and paste the cheat sheet template into your branch
-- 4. edit and push your work to your branch
-- 5. Open a pull request
-- 6. Wait for a reviewer to review your pull request
-- 7. If your pull request is accepted, your branch will be merged into the master branch.
-- 8. Enjoy your new fame for contributing :) !
+- 4. copy and paste the cheat sheet template into your branch
+- 5. edit and push your work to your branch
+- 6. Open a pull request
+- 7. Wait for a reviewer to review your pull request
+- 8. If your pull request is accepted, your branch will be merged into the master branch.
+- 9. Enjoy your new fame for contributing :) !
 
 ### Contributors :
 - François Blas
