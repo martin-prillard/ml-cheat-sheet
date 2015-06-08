@@ -1,7 +1,7 @@
 # ml-cheat-sheet
 
-### Assignation des tâches :
+### Todo list :
 https://trello.com/b/fWEVqSMA/ml-cheat-sheet
 
-### Fil de discussion :
+### Discussion thread :
 https://mlcheatsheet.slack.com
