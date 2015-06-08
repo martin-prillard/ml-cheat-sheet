@@ -1,5 +1,3 @@
-# ml-cheat-sheet
-
 # Machine Learning Cheat Sheet
 
 ### Todo list :
