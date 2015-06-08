@@ -16,7 +16,7 @@ https://mlcheatsheet.slack.com
 Take a look to the contributing tutorial [contributing](CONTRIBUTING.md)
 - 1. clone the repository
 - 2. create your branch using the following format : [your github username]-[the task you are doing], for instance : *jeandupont-nearestneighbors*
-- 3. update the Todo list with your task : https://trello.com/b/fWEVqSMA/ml-cheat-sheet
+- 3. update the Todo list with your task **AND** your name : https://trello.com/b/fWEVqSMA/ml-cheat-sheet
 - 4. copy and paste the cheat sheet template into your branch
 - 5. edit and push your work to your branch
 - 6. Open a pull request
