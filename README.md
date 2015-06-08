@@ -9,7 +9,7 @@ https://trello.com/b/fWEVqSMA/ml-cheat-sheet
 https://mlcheatsheet.slack.com
 
 ### Instructions :
-- maximum size : TODO
+- maximum size per cheat sheet : **2 pages**
 - in English
 - only basic LaTeX package
 
