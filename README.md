@@ -23,3 +23,4 @@ https://mlcheatsheet.slack.com
 - Paul Mochkovitch
 - Romain Savidan
 - Martin Prillard
+- Raoul Fokou
