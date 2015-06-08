@@ -12,6 +12,8 @@ https://mlcheatsheet.slack.com
 - only basic LaTeX package
 
 ### To contribute :
+
+Take a look to the contributing tutorial [contributing](CONTRIBUTING.md)
 - 1. clone the repository
 - 2. create your branch using the following format : [your github username]-[the task you are doing], for instance : *jeandupont-nearestneighbors*
 - 3. update the Todo list with your task : https://trello.com/b/fWEVqSMA/ml-cheat-sheet
