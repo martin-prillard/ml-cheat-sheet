@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {section}{Introduction}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Pros and cons}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Pros}{1}{subsection.1.1}
+\contentsline {paragraph}{Paragraph}{1}{paragraph*.1}
+\contentsline {paragraph}{Paragraph}{1}{paragraph*.2}
+\contentsline {subsection}{\numberline {1.2}Cons}{1}{subsection.1.2}
+\contentsline {section}{\numberline {2}Use cases}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Use case 1}{1}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Use case 2}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Math Models}{2}{section.3}
+\contentsline {section}{\numberline {4}Variantes}{2}{section.4}
+\contentsline {section}{Acknowledgments}{2}{section*.5}
+\contentsfinish 
