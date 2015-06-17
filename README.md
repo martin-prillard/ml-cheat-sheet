@@ -40,3 +40,4 @@ Take a look to the contributing tutorial [contributing](CONTRIBUTING.md)
 - Romain Savidan
 - Martin Prillard
 - Raoul Fokou
+- Baruch Gbègnon Amoussou-Djangban
